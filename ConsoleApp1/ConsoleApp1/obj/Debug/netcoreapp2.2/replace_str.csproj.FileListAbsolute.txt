@@ -1,0 +1,11 @@
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\replace_str.deps.json
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\replace_str.runtimeconfig.json
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\replace_str.runtimeconfig.dev.json
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\replace_str.dll
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\replace_str.pdb
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.csprojAssemblyReference.cache
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.csproj.CoreCompileInputs.cache
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.AssemblyInfoInputs.cache
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.AssemblyInfo.cs
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.dll
+C:\Users\Subash\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\replace_str.pdb
